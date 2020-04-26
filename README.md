@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+![picture](https://github.com/londonappbrewery/Images/raw/master/flash_chat_flutter_demo.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
