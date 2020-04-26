@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "508244921060",
+    "firebase_url": "https://flash-chat-3b21c.firebaseio.com",
+    "project_id": "flash-chat-3b21c",
+    "storage_bucket": "flash-chat-3b21c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508244921060:android:e34dc2991709ff1ba53af1",
+        "android_client_info": {
+          "package_name": "com.brakenseddik.flach_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508244921060-i36lrteej1g82q97nf45l6hcd5lu8skc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRPLqtMRrlqQ77eyxk9qGQEk87nQ1Iqws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508244921060-i36lrteej1g82q97nf45l6hcd5lu8skc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
