@@ -1,6 +1,6 @@
 # flach_chat
 
-A new Flutter application.
+A Cha application built using Flutter.
 
 ![picture](https://github.com/londonappbrewery/Images/raw/master/flash_chat_flutter_demo.gif)
 
